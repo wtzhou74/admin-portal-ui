@@ -35,8 +35,10 @@
                                 <h1 class="font-bold text-navbar-blue">{{"ADMIN_LOGIN.CONTENTS_1" | translate}}
                                     <span ng-bind="loginVm.brandName"></span>.</h1>
                                 <div class="m-t border-top-navbar-blue">
-                                    <h2 class="m-t-xs font-bold m-t text-dark-blue">{{"ADMIN_LOGIN.CONTENTS_2" | translate}} <span
-                                            ng-bind="loginVm.brandName"></span> {{"ADMIN_LOGIN.CONTENTS_3" | translate}}</h2>
+                                    <h2 class="m-t-xs font-bold m-t text-dark-blue">{{"ADMIN_LOGIN.CONTENTS_2" | translate}}
+                                        <span data-ng-bind-html="'ADMIN_LOGIN.CONTENTS_21' | translate | htmlSafe"></span>
+                                        <span data-ng-bind-html="'ADMIN_LOGIN.CONTENTS_22' | translate | htmlSafe"></span>
+                                        <span ng-bind="loginVm.brandName"></span> {{"ADMIN_LOGIN.CONTENTS_3" | translate}}</h2>
                                     <p> {{"ADMIN_LOGIN.CONTENTS_4" | translate}}</p>
                                 </div>
                             </div>
@@ -67,7 +69,7 @@
                     </div>
                     <p>{{"ADMIN_LOGIN.CONTENTS_9" | translate}}</p>
 
-                    <p><span ng-bind="loginVm.brandName"></span>{{"ADMIN_LOGIN.CONTENTS_10" | translate}} </p>
+                    <p><span ng-bind="loginVm.brandName"></span><span data-ng-bind-html="'ADMIN_LOGIN.CONTENTS_10' | translate | htmlSafe"></span> </p>
 
                     <!--<p><span ng-bind="loginVm.brandName"></span>, a Health Insurance Portability and Accountability Act
                         (HIPAA) & Health Information Technology for Economic and Clinical Health (HITECH) Act compliant

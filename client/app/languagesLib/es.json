@@ -5,7 +5,9 @@
   "BUTTON_LANG_ES": "Español",
   "ADMIN_LOGIN": {
     "CONTENTS_1": "Tome control de su salud y bienestar con ",
-    "CONTENTS_2": "Bienvenido a la Página de Administración ",
+    "CONTENTS_2": "Bienvenido a la ",
+    "CONTENTS_21": "<br>Página de ",
+    "CONTENTS_22": "<br>Administración de ",
     "CONTENTS_3": "",
     "CONTENTS_4": " Por favor Inicie Sesión.",
     "CONTENTS_5": "¿Se olvidó la Contraseña?",
@@ -13,7 +15,7 @@
     "CONTENTS_7": " Sobre Usar la Cuenta del Administrador ",
     "CONTENTS_8": "",
     "CONTENTS_9": "Al entrar en este sistema electrónico, reconoce que ha leído y comprendido las regulaciones de HIPAA, HITECH y los requisitos relacionados a privacidad, confidencialidad y seguridad de su PHI. Por favor lea la información sobre HIPAA.",
-    "CONTENTS_10": ", el Health Insurance Portability and Accountability Act (HIPAA) y el Health Information Technology for Economic and Clinical Health (HITECH) Act son compatibles con este sistema electrónico que guarda información médica protegida (PHI). Las regulaciones HIPAA y HITECH se aplican a entidades cubiertas (Consent2Share) y se extienden a negocios asociados (agencias y proveedores contratados). Para más información, por favor visite nuestro. ",
+    "CONTENTS_10": ", el Health Insurance Portability and Accountability Act (HIPAA) y el Health Information Technology for Economic and Clinical Health (HITECH) Act son compatibles con este sistema electrónico que guarda información médica protegida (PHI). Las regulaciones HIPAA y HITECH se aplican a entidades cubiertas (Consent2Share) y se extienden a negocios asociados (agencias y proveedores contratados). Para más informacioón, por favor visite nuestro sitio web. ",
     "CONTENTS_11": "recurso sobre ",
     "CONTENTS_12": " HIPAA y HITECH."
   },
@@ -90,7 +92,7 @@
     "CONTENTS_20": "Femenino",
     "CONTENTS_21": "Fecha de Nacimiento",
     "CONTENTS_22": "Información Adicional ",
-    "CONTENTS_23": "Numero de Seguridad Social",
+    "CONTENTS_23": "Número de Seguridad Social",
     "CONTENTS_24": "Teléfono",
     "CONTENTS_25": "Dirección",
     "CONTENTS_26": "Ciudad",
